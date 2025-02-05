@@ -1,4 +1,3 @@
-metadata
 title: Qwen2.5 Max Demo
 emoji: 🐢
 colorFrom: yellow
